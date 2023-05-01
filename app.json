@@ -16,32 +16,32 @@
       "BOT_TOKEN": {
         "description": "Your telegram bot token, get from @Botfather in telegram.",
         "required": true,
-        "value": ""
+        "value": "5830237496:AAH13qF2njHkMyGfmXm7wC2wx_Y-U8pVd1w"
       },
       "API_ID": {
         "description": "Get API_ID from my.telegram.org, used for pyrogram base.",
         "required": true,
-        "value": ""
+        "value": "22594726"
       },
       "API_HASH": {
         "description": "Get API_HASH from my.telegram.org, used for pyrogram base.",
         "required": true,
-        "value": ""
+        "value": "7cf1f2f821c152a81aab9c85b2f8a2ba"
       },
       "DB_URI": {
         "description": "Your MongoDB connection string.",
         "required": true,
-        "value": ""
+        "value": "mongodb+srv://kllam0048:measso@cluster0.wxilimp.mongodb.net/test"
       },
       "DB_NAME": {
         "description": "Your MongoDB database name.",
         "required": true,
-        "value": ""
+        "value": "Cluster0"
       },
       "OWNER_ID": {
         "description": "Your user ID as an integer.",
         "required": true,
-        "value": "1344569458"
+        "value": "5937807500"
       },
       "SUPPORT_GROUP": {
         "description": "Your Telegram support group chat username where user's can contact in case of a problem..",
@@ -66,7 +66,7 @@
       "DEV_USERS": {
         "description": "ID of users who are Devs of your bot. Use space to seprate values",
         "required": false,
-        "value": " "
+        "value": "5937807500 "
       },
       "SUPPORT_CHANNEL": {
         "description": "Channel where bot uodates will be posted!",
